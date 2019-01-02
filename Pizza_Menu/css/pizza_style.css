@@ -1,0 +1,16 @@
+body {
+	background-image: url("../img/pizza.jpg");
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: 1000px 660px;
+}
+
+.container {
+	width: 100%;
+}
+
+.banner {
+	color: #00bfff;
+	font-family: Impact, Charcoal, sans-serif;
+	font-weight: 900;
+}
